@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/data/work/gwe/nov-framework/lib/Nov'
+let g:netrw_dirhist_2='/home/gonzalo'
+let g:netrw_dirhist_3='/etc/php5/conf.d'
